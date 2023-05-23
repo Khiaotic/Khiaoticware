@@ -3,3 +3,10 @@ Things i want:
     -wares
     -link to etsy 
     -
+
+
+    login/logout
+
+   - playful interactions with user engagement
+
+   -user generated content like comments, posts with wares, 
