@@ -1,12 +1,42 @@
 Things i want:
     - portfolio link
-    -wares
-    -link to etsy 
-    -
+    -warehouse
+    -link to etsy as tab but also to direct links to products in warehouse
+    -login modal
 
 
     login/logout
 
-   - playful interactions with user engagement
 
-   -user generated content like comments, posts with wares, 
+
+Homepage/LandingPage
+    Mission: A landing page for curious clients to see my work in an unique space. 
+             A place for returning clients to comment, and post purchases. 
+             A hubspot for myself and interests
+    Wants: 
+            1. playful interactions with user engagement
+                    -Nature.Tech.Exisitential "easter eggs"
+                    -user generated content like comments on posts with wares/ 
+            2. Socials
+                    -discord, etsy, tiktok, youtube, 
+            3. Login/SignUp
+                    -MODAL instead of differnt page
+            4. Footer
+                    -"how i price my work page" modal
+
+
+Warehouse Gallery 
+    Mission:
+        Wants:
+            1.product cards simple
+                -product image (3D F.O.M image/ alt: Illustrator Shirt BG), ar indicator, price,  
+                -link to etsy as tab but also to direct links to products in warehouse 
+            2. product cards expanded
+                -gallery (with 3 example photos), price, description, brand, size
+
+
+Database
+    Mission: keep track of inventory and pull information from base to populate application
+        Wants: 
+            1. item, brand, price, size, ar, 
+
