@@ -1,3 +1,19 @@
+Project Management
+    Project:
+    Due Date:
+    Processes
+        FrameWork
+            1. Cellular Screen size
+                    a. header changes to solid color
+
+MVP solutions
+ simplest ugliest less rich version of item
+ first pass looks terrible
+ BASICS...then build of features  
+ scrum and agile -how to break down problems into small pieces...
+SIMPLE CSS.....
+GIVE YOURSELF PERMISSION FOR THINGS TO LOOK UGLY AND GO FOR THERE
+
 Things i want:
     - portfolio link
     -warehouse
